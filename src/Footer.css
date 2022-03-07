@@ -1,0 +1,18 @@
+.footer_socials a{
+    background: black;
+    color: white;
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+    margin-left: 20px;
+    border: 1px solid transparent;
+    
+
+
+}
+
+.footer_socials a:hover{
+    background: transparent;
+    color: black;
+    border-color: black;
+
+}
